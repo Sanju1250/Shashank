@@ -10,7 +10,7 @@ namespace DemoProject.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "ws2eswes Page";
 
             return View();
         }
